@@ -1,0 +1,6 @@
+Field category / Other / DieselExpression
+$(substr,$(getvar,ctab),1,4)
+This one read the first 4 characteres on the current TAB
+
+DWGPROPRS
+This is useful to add document related fields (Drawn by, Project Number...)
